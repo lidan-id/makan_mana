@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "887227597308",
+    "project_id": "makan-mana-e7353",
+    "storage_bucket": "makan-mana-e7353.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887227597308:android:45e278cde57b368b293279",
+        "android_client_info": {
+          "package_name": "com.makan_mana.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887227597308-e82g8c49chlmjptejra4cr88jnbpeh6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makan_mana.app",
+            "certificate_hash": "86738c431ddf360eec724fcb77b4c3470ddb9b76"
+          }
+        },
+        {
+          "client_id": "887227597308-gu3kppshgjaik5nuhv22ocqu1qdlrjec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makan_mana.app",
+            "certificate_hash": "e41c50b4614bbf2818980cb7ead61a3d1b7b62b6"
+          }
+        },
+        {
+          "client_id": "887227597308-iaf5tgm99iqevqmedeo0l1tvdlihlc15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makan_mana.app",
+            "certificate_hash": "d57ca6cb1eb489edb09c5f5ce768e203f15577e1"
+          }
+        },
+        {
+          "client_id": "887227597308-t02fuuu7bi2mktjol1msipfc6g65q3ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makan_mana.app",
+            "certificate_hash": "9b0ca3796ed44fa0dc70f5ebbdc1cc60b90eab99"
+          }
+        },
+        {
+          "client_id": "887227597308-r447bh3325055173jvfbfukljn4ei34d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwEBQJ0vYGGqt6rceo0R2S7hIfFIWdgCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887227597308-r447bh3325055173jvfbfukljn4ei34d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887227597308-bqv6hfmker84nvvosb0ec0fa7qavd3po.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.makanMana"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
